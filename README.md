@@ -1,2 +1,2 @@
-# Machine_Learning_with_jadi
-My learns from ML course from jadi
+# Machine Learning Guide
+- [regresion](https://github.com/itsahmadrezza/ML_With_Jadi/tree/main/Regression)
